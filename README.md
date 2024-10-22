@@ -1,21 +1,21 @@
-#PhD Applicant
+# PhD Applicant
 
-###EDUCATION
+### EDUCATION
 
 09/2018-07/2021
-#Master of Engineering (MEng) in Pattern Recognition, Beihang University, Beijing, China, (GPA: 3.14/4.00)
+# Master of Engineering (MEng) in Pattern Recognition, Beihang University, Beijing, China, (GPA: 3.14/4.00)
 
 10/2013–09/2017
-#Bachelors of Science (BSci) in Information Technology, University of Education Lahore, Okara, Pakistan, (GPA: 3.37/4.00)
+# Bachelors of Science (BSci) in Information Technology, University of Education Lahore, Okara, Pakistan, (GPA: 3.37/4.00)
 
 09/2007–09/2011
 Diploma of Associate Engineering (DAE) in Electronics, Quaid e Azam Polytechnic Institute, Sahiwal, Pakistan, (Grade: B)
 
 
-###EMPLOYMENT
+### EMPLOYMENT
 
 07/2021–06/2023
-#Visiting Lecturer & Research Assistant, University of Okara, Pakistan
+# Visiting Lecturer & Research Assistant, University of Okara, Pakistan
 •	Initiated the development of comprehensive curricula centered on Artificial Intelli-gence Theory and E-Commerce for 5th and 7th-semester undergraduate students.
 •	Delivered impactful lectures that garnered exceptional feedback, achieving a perfect rating in teacher evaluations.
 •	Mentored three Master's students in successful completion of their post-graduation thesis.
@@ -26,19 +26,19 @@ Diploma of Associate Engineering (DAE) in Electronics, Quaid e Azam Polytechnic 
 •	Co-authored a meticulously documented manuscript for publication, encapsulating innovative research endeavors.
 
 03/2020–03/2021
-#Software Developer, Softnotech Web & IT Solutions, Pakistan
+# Software Developer, Softnotech Web & IT Solutions, Pakistan
 •	Drove excellence through meticulous code review alongside a dynamic team of two, resulting in fortified security measures and accelerated project completion by two weeks ahead of the deadline.
 •	Spearheaded the conceptualization and thorough design of relational databases, seamlessly catering to web-based and offline applications while rendering exception reporting obsolete.
 •	Fostered harmonious collaboration within the team, culminating in successfully de-veloping cutting-edge desktop-based software using Java. This tailored software em-powered a college to manage its records effortlessly, reinforcing operational efficiency and streamlining administrative processes.
 
 09/2019–01/2020
-#Programming Intern, Engeekers, China
+# Programming Intern, Engeekers, China
 
 •	Demonstrated a consistent output of 30 lines of code daily, showcasing proficiency in Python for machine learning endeavors.
 •	Diligently debugged 100+ lines of code daily, predominantly for JFrames, displaying detailed attention to detail and technical adeptness.
 •	Collaborated effectively with fellow team members, actively supporting daily operational workflows and engaging with utmost dedication in scheduled corporate events.
 
-###PUBLICATIONS
+### PUBLICATIONS
 
 Healthcare
 Technology
@@ -53,49 +53,49 @@ BS FYP	Learning Management Systems for Institutions Using Java
 	
 Web of Science: https://www.webofscience.com/wos/author/record/ABD-4506-2022
 
-###FUNDING
+### FUNDING
 
-#Project Funding
+# Project Funding
 Hunan Provincial Science and Technology Innovation Leader Project grant for Deep
 Learning Method to Detect the Road Cracks and Potholes for Smart Cities Received
 $2200 in 2022.
 
-#Project Funding
+# Project Funding
 Data and Artificial Intelligence Scientific Chair grant from Umm Al-Qura University for
 Racial Identity-Aware Facial Expression Recognition Using Deep Convolutional Neural
 Networks received $1440 in 2021.
 
-#PhD Fellowship (Covid Affected, Not taken)
+# PhD Fellowship (Covid Affected, Not taken)
 The Prestigious government scholarship funded by the China Scholarship Council received total funding of $47989 offered in 2021 at Central South University,  
 
-#Master Fellowship
+# Master Fellowship
 A prestigious government scholarship funded by the China Scholarship Council received a
 total funding of $34482 from 2018 to 2021 at Beihang University. 
 
-#Fee waiver
+# Fee waiver
 Funded by the University of Education, received a fee waiver for a semester on getting top
 scores from the department of 240 students in 2017.
 
-###UNCOMPENSATED POSITIONS
+### UNCOMPENSATED POSITIONS
 
 04/2022–Present
-#Peer Reviewer
+# Peer Reviewer
 Serving as a peer reviewer for many prestigious journals, helping to gain valuable insights into cutting-edge research, enhance critical analysis skills, and boost academic reputation within the field of AI.
 
 
 02/2019–07/2019
-#Teaching Assistant (unpaid), Beihang University, China
+# Teaching Assistant (unpaid), Beihang University, China
  As Dr. Li Jiangfan's Teaching Assistant delivered instructive lectures, facilitated
 engaging discussions, and designing thought-provoking assignments to enhance un-
 dergraduate computer science students' comprehension, active participation, and
 analytical thinking.
 
 01/2014–09/2017
-#Exhibition Organizer (unpaid), University of Education, Pakistan
+# Exhibition Organizer (unpaid), University of Education, Pakistan
 f Founder and organizer of the annual IT Exhibition for computer science students to
 share knowledge with other disciplines.
 
-###SKILLS
+### SKILLS
 
 Machine Learning
 Classification– Neural Network, Naive Bayes, SVM, Regression– Linear Regression,
@@ -117,3 +117,4 @@ English, Hindi, Chinese
 
 Others
 Can write well-organized and structured manuscripts for publication.
+
