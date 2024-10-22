@@ -45,17 +45,7 @@ Engeekers, China
 
 # PUBLICATIONS
 
-### Healthcare Technology Letters
-Ahmad, I., Rashid, J., "Autism Spectrum Disorder Detection using Facial Images: A Performance Comparison of pretrained Convolutional Neural Networks," in Healthcare Technology Letters, 2024, https://doi.org/10.1049/htl2.12073, (principal author)
-
-### CMC Journal
-Muhammad R. Saeed., Ahmad,I., "Deep Learning Method to Detect the Road Cracks and Potholes for Smart Cities," in Computers, Materials & Continua, 2023, vol. 75, no.1, pp. 1863–1881, DOI:10.32604/cmc.2023.035287, (co-author)
-
-### Applied Sciences Journal
-Sohail, M., Ali, G., Rashid, J., Ahmad,I., "Racial Identity-Aware Facial Expression Recognition Using Deep Convolutional Neural Networks," in Applied Sciences, 2022, Vol. 12(1), pp. 88, https://doi.org/10.3390/APP12010088, (co-author)
-
-### Computer & Standards (Pre-print)
-Ahmad, I., Shang, F., "PIYN: Empowering Accurate and Real-Time Remote Sensing Target Detection with Enhanced YOLOv8," (principal author)
+deploying
 
 ### BS FYP
 Learning Management Systems for Institutions Using Java
